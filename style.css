@@ -10,3 +10,13 @@ i {
 .interaction {
   min-height: 50px;
 }
+
+.feed {
+  max-width: 80%;
+  margin: auto;
+}
+
+.photograph {
+  display: flex;
+  justify-content: center;
+}
